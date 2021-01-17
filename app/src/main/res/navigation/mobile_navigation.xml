@@ -12,14 +12,14 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/navigation_dashboard"
-        android:name="com.example.rosehack21.ui.dashboard.DashboardFragment"
+        android:id="@+id/navigation_tasks"
+        android:name="com.example.rosehack21.ui.tasks.TaskFragment"
         android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        tools:layout="@layout/fragment_tasks" />
 
     <fragment
-        android:id="@+id/navigation_notifications"
-        android:name="com.example.rosehack21.ui.notifications.NotificationsFragment"
+        android:id="@+id/navigation_shop"
+        android:name="com.example.rosehack21.ui.shop.NotificationsFragment"
         android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        tools:layout="@layout/fragment_shop" />
 </navigation>

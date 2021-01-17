@@ -1,4 +1,4 @@
-package com.example.rosehack21.ui.notifications;
+package com.example.rosehack21.ui.shop;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
